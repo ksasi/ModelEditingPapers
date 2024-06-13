@@ -1,7 +1,7 @@
 # Model Editing Papers
 Collection of Papers for Model Editing aka Knowledge Editing
 
-## Large Language Models
+## Language Generation
 
 
 ## Image Generation
