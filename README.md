@@ -23,6 +23,9 @@ Collection of Papers for Model Editing aka Knowledge Editing
 
 ## Video Generation
 
+## Others
+- [Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/html/Li_Fast-NTK_Parameter-Efficient_Unlearning_for_Large-Scale_Models_CVPRW_2024_paper.html)
+
 
 
 
