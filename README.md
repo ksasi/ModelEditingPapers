@@ -2,10 +2,13 @@
 Collection of Papers for Model Editing aka Knowledge Editing
 
 ## Language Generation
+- [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/abs/2403.07362)
+- https://github.com/zjunlp/KnowledgeEditingPapers?tab=readme-ov-file#-papers
 
 
 ## Image Generation
 
+- [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868)
 - [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631)
 - [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)
 - [ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning](https://arxiv.org/abs/2405.19237)
@@ -27,5 +30,6 @@ Collection of Papers for Model Editing aka Knowledge Editing
 - [Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/html/Li_Fast-NTK_Parameter-Efficient_Unlearning_for_Large-Scale_Models_CVPRW_2024_paper.html)
 
 
+## Datasets
 
 
